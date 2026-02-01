@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+sqlmodel
+pandas
+numpy
+httpx
+jinja2
+python-multipart
+# For the agent
+openai
